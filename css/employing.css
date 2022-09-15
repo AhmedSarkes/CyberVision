@@ -1,0 +1,27 @@
+.landing {
+    background-color: var(--blue-color);
+}
+.form-employing form {
+    background-color: #f3f3f3;
+    padding: 20px;
+}
+.form-employing form input,
+.form-employing form select {
+    background-color: #f3f3f3;
+    background-image: none;
+}
+.form-employing form .select {
+    position: relative;
+}
+.form-employing form .select option {
+    color: var(--blue-color);
+}
+.form-employing form .select svg {
+    position: absolute;
+    left: 2%;
+    top: 61%;
+    color: #dcdcdc;
+}
+.form-employing form .submit .btn-employing-submit {
+    background-color: var(--blue-color);
+}

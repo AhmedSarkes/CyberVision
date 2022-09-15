@@ -1,0 +1,6 @@
+.landing {
+    background-color: var(--blue-color);
+}
+.challenges .card i {
+    color: var(--blue-color);
+}
