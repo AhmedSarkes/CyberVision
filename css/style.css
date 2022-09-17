@@ -178,6 +178,11 @@ body {
         margin-top: 50px;
     }
 }
+@media (max-width: 768px) {
+    .about .row {
+        margin-top: 50px;
+    }
+}
 @media (max-width: 550px) {
     .about .about-image img {
         width: 200px;
